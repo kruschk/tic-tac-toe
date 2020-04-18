@@ -1,2 +1,2 @@
 # tic-tac-toe
-A simple Tic-Tac-Toe game.
+This is a simple Tic-Tac-Toe game, written in C.
